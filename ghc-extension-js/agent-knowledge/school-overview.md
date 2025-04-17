@@ -4,7 +4,7 @@ This is an overview of the high school so instructors can more naturally describ
 
 - The school name is "Mergington High School"
 - The school is a public high school in Mergington, Florida.
-- The school moto is "Branch out and grow".
+- The school motto is "Branch out and grow".
 - It serves grades 9 through 12 and typically has 100 to 150 students per grade.
 
 - The school year starts in August and ends in May.
